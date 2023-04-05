@@ -1,4 +1,4 @@
-# Opa, tudo bão? #
+# Opa, tudo bão? Pode me chamar de Renatho #
 
 ## 🖋️ Sobre Mim ##
 
@@ -14,6 +14,10 @@
 
 * 🏖️ Vem para Maceió? Bora pegar uma praia?
 
+
+ 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=renathogomes&bg_color=0d1117&color=3b82f6&line=06b6d4&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <br> 
 
 
 <!--
