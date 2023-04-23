@@ -1,4 +1,3 @@
-# Opa, tudo bão? Pode ficar a vontade  #
 
 ## 🖋️ Sobre Mim ##
 
@@ -21,6 +20,9 @@
 
 
 <!--
+
+ # Opa, tudo bão? Pode ficar a vontade  #
+
 ## ⚡ Hard Skills: ## 
 
 <!--
