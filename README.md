@@ -9,6 +9,8 @@
 
 * 🤵 Linkedin: https://www.linkedin.com/in/renathoaffonso/
 
+<!--
+
 * 💡 Meu Portfólio: https://renathogomes.github.io
 
 * 🏖️ Vem para Maceió? Bora pegar uma praia?
@@ -19,7 +21,7 @@
   <br> 
 
 
-<!--
+
 
  # Opa, tudo bão? Pode ficar a vontade  #
 
