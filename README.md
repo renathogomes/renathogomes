@@ -3,7 +3,7 @@
 
 * 💻 Desenvolvedor Web Full-Stack
 
-* 📚 Pessoa Estudante da UNASP <img src='https://avatars.githubusercontent.com/u/51808343?s=280&v=4' width='20px'>
+* 📚 Pessoa Estudante da UNASP
 
 * 📧 Email Pessoal: renatho.20gomes@gmail.com
 
