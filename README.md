@@ -1,7 +1,7 @@
 
 ## 🖋️ Sobre Mim ##
 
-* 💻 Desenvolvedor Web Full-Stack
+* 💻 Desenvolvedor Web Full-Stack - Amante de Backend Java.
 
 * 📚 Pessoa Estudante da UNASP
 
