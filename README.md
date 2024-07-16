@@ -3,7 +3,7 @@
 
 * 💻 Desenvolvedor Web Full-Stack - Amante de Backend Java.
 
-* 📚 Pessoa Estudante da UNASP
+* 📚 Estudante da UNASP
 
 * 📧 Email Pessoal: renatho.20gomes@gmail.com
 
