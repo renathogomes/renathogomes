@@ -7,7 +7,7 @@
 
 * 📧 Email Pessoal: renatho.20gomes@gmail.com
 
-* 🤵 Linkedin: https://www.linkedin.com/in/renathoaffonso/
+* 🤵 Linkedin: https://www.linkedin.com/in/renathogomes/
 
 <!--
 
